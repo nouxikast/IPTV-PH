@@ -207,8 +207,16 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
 https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2401649_kind-words-in-all-kinds-of-publications-cbs.png" group-title="US",CBS East (WCBS-TV New York)
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wcbs-dt1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/170px-KABC-TV_logo.svg.png" group-title="US",ABC West (KABC-TV Los Angeles)
-https://cdn87.theus6tv.tk/locals/SoCal/kabc-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/220px-CBS_2.svg.png" group-title="US",CBS West (KCBS-TV Los Angeles)
+https://cdn87.theus6tv.tk/locals/SoCal/kcbs-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="US",FOX East (WNYW-TV New York)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnyw-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png" group-title="US",FOX West (KTTV Los Angeles)
+https://cdn87.theus6tv.tk/locals/SoCal/kttv-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2401649_kind-words-in-all-kinds-of-publications-cbs.png" group-title="US",NBC East (WNBC New York)
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/KNBC_%282011_-_Flat%29.svg/220px-KNBC_%282011_-_Flat%29.svg.png" group-title="US",NBC West (KNBC Los Angeles)
+https://cdn87.theus6tv.tk/locals/SoCal/knbc-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN (alternate)
